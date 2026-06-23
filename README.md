@@ -5,6 +5,31 @@
 
 
 
+<!-- START:REPOS -->
+## [lohithreddym4](https://github.com/lohithreddym4/lohithreddym4)
+
+
+
+
+---
+
+## [Typhon](https://github.com/lohithreddym4/Typhon)
+
+
+
+<p align="center">
+  <b>Fast. Isolated. Function-First.</b>
+</p>
+
+<p align="center">
+  A lightweight Docker-powered judging engine for coding platforms, assessments, interview systems, and online judges.
+</p>
+
+---
+
+## 🚀 What is Typhon?
+
+Typhon is a function judging engine that executes user submissions inside isolate
 
 ---
 
