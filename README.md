@@ -1,17 +1,9 @@
 # My Projects
 
-This section is generated automatically.
-
 <!-- START:REPOS -->
 ## [lohithreddym4](https://github.com/lohithreddym4/lohithreddym4)
 
 
-
-This section is generated automatically.
-
-<!-- START:REPOS -->
-Loading...
-<!-- END:REPOS -->
 
 
 ---
